@@ -1,1 +1,1 @@
-bot: ./run.sh
+worker: python3.7 run.py 
